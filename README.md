@@ -1,1 +1,1 @@
-# python_simple_scripts
+# Simple python scripts for testing some features
